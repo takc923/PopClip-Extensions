@@ -14,7 +14,7 @@
         <array>
                 <dict>
                         <key>URL</key>
-                        <string>http://eowp.alc.co.jp/search?q={popclip text}</string>
+                        <string>http://eowpf.alc.co.jp/search?q={popclip text}</string>
                         <key>Image File</key>
                         <string>ALC.png</string>
                         <key>Title</key>
